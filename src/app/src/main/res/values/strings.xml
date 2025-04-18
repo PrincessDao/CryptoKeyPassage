@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CryptoKeyPassage</string>
+    <string name="glow">Glow</string>
+    <string name="LinesFromGlow">LinesFromGlow</string>
+
+    <string-array name="cards_company_name_txt">
+        <item>Яндекс</item>
+        <item>ВТБ</item>
+        <item>Test</item>
+        <item>VK</item>
+    </string-array>
+    
+    <string-array name="time_history_Date_txt">
+        <item>23 октября 2023</item>
+        <item>24 октября 2023</item>
+        <item>28 октября 2023</item>
+        <item>29 октября 2023</item>
+    </string-array>
+    <string-array name="time_history_HMS_txt">
+        <item>10:54:30</item>
+        <item>10:56:35</item>
+        <item>10:58:47</item>
+        <item>10:59:58</item>
+    </string-array>
+    <string-array name="time_history_Action_txt">
+        <item>Вход</item>
+        <item>Вход</item>
+        <item>Вход</item>
+        <item>Вход</item>
+    </string-array>
+</resources>
